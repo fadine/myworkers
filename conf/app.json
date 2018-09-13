@@ -1,0 +1,13 @@
+{
+  "app_name": "MyWorkers",
+  "app_version": "1",
+  "app_usage": "My workers",
+  "queue-email-engine": "EmailEngine",
+  "rabbitmq": "amqp://guest:guest@192.168.80.23:5672",
+  "email_host":	"mail.smtp2go.com",
+  "email_port":	"2525",
+  "email_account":	"test.yopmail.com",
+  "email_password":	"123456",
+  "email_template_root":	"/var/mail/templates/",
+  "email_use_ssl":	true
+}
